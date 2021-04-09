@@ -1,0 +1,92 @@
+* {
+ padding: auto 0;
+ margin:  0;
+ text-decoration: none;
+ list-style: none;
+ box-sizing: border-box;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.head {
+ text-align: center;
+ font-size: 25px;
+ text-transform: uppercase;
+ background-color: #e5771e;
+ height: 100px;
+ padding-top: 25px;
+}
+
+.music {
+ text-align: center;
+}
+
+.official {
+ background-color: #75c8ae;
+ height: 50px;
+ font-size: 25px;
+}
+
+.tophits {
+ text-align: center;
+ text-transform: uppercase;
+ padding-top: 25px;
+ /*margin: 25px;*/
+}
+
+.card {
+ box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.card2 {
+ box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+ transition: 0.3s;
+ margin-left: auto;
+ margin-right: auto;
+ text-align: center;
+ ;
+}
+
+.card:hover {
+ box-shadow: 0 8px 16px 0 rgba(0, 0, 0.2);
+}
+
+.card2:hover {
+ box-shadow: 0 8px 16px 0 rgba(0, 0, 0.2);
+}
+
+.video {
+ background-color: #d8460b;
+ text-align: center;
+}
+
+h3 {
+ font-size: 25px;
+ background-color: #ffecb4;
+ height: 50px;
+}
+
+.links {
+ padding-top: 20px;
+ background-color: #ffecb4
+}
+
+ul {
+ font-size: 25px;
+ text-align: center;
+ text-decoration: underline;
+ background-color: 	#f5c600;
+}
+
+.groovy {
+ background-color:	#007291;
+ text-align: center;
+}
+
+li {
+ font-size: 20px;
+ text-align: center;
+}
